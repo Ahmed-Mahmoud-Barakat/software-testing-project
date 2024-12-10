@@ -1,0 +1,11 @@
+﻿  Tests.c
+E:\Testing\Final_Project\Generic\System_info.h(3,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  (compiling source file 'Test/Tests.c')
+      E:\Testing\Final_Project\Generic\System_info.h(3,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+E:\Testing\Final_Project\Test\Tests.c(927,67): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+E:\Testing\Final_Project\Test\Tests.c(927,80): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+E:\Testing\Final_Project\Test\Tests.c(928,69): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+E:\Testing\Final_Project\Test\Tests.c(928,82): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+  Final_Project.vcxproj -> E:\Testing\Final_Project\x64\Debug\Final_Project.exe
